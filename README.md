@@ -1,6 +1,7 @@
 # AW9523
 #### What is it?
 AW9523 is a 16x I/O Port-Expander. Very cheap and easy to use with Arduino.
+
 Arduino Library: [Github](https://github.com/adafruit/Adafruit_AW9523)
 
 
@@ -9,6 +10,7 @@ I looked for a cheap and small port Expander and found that part on LCSC, so I c
 
 #### What makes it special?
 AW9523 Features:
+
 - 16 multi-function I/O, each for LED drive (current-source dimming) or GPIO mode
 - 256 steps linear dimming in LED drive mode
 - Any GPIO can be configured as an input or an output independently
@@ -20,3 +22,5 @@ AW9523 Features:
 - Supply shutdown function, low-level active
 - 2.5V~5.5V power supply
 - I2C address default 0x58 (can be 0x59, 0x5A or 0x5B)
+
+You can buy this board form my Tindie Store: https://www.tindie.com/products/ripper121/aw9523-breakout-16-io-port-expander/
