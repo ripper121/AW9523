@@ -1,6 +1,6 @@
-# AW9523
+# AW9523 is a 16 I/O Port-Expander
 #### What is it?
-AW9523 is a 16x I/O Port-Expander. Very cheap and easy to use with Arduino.
+AW9523 is a 16 I/O Port-Expander. Very cheap and easy to use with Arduino.
 
 Arduino Library: [Github](https://github.com/adafruit/Adafruit_AW9523)
 
