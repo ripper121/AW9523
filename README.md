@@ -15,7 +15,7 @@ AW9523 Features:
 - 256 steps linear dimming in LED drive mode
 - Any GPIO can be configured as an input or an output independently
 - Support interrupt, 8us deglitch, low-level active
-- Standard I2C interface, AD1/AD0 select I2C device address
+- Standard I2C interface, A1/A0 select I2C device address
 - SDA, SCL, SHDN, and all GPIO can accept in 1.8V logic input
 - ESD protection: ±4000V HBM (MIL-STD-883H Method 3015.8 standard）
 - Latch-up ：±450mA（ JEDEC STANDARD NO.78C SEPTEMBER 2010 standard）
