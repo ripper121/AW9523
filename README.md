@@ -24,3 +24,9 @@ AW9523 Features:
 - I2C address default 0x58 (can be 0x59, 0x5A or 0x5B)
 
 You can buy this board form my Tindie Store: https://www.tindie.com/products/ripper121/aw9523-breakout-16-io-port-expander/
+
+
+![ISO_Rende](https://github.com/ripper121/AW9523/blob/main/ISO_Render.png)
+![size](https://github.com/ripper121/AW9523/blob/main/size.png)
+![Top](https://github.com/ripper121/AW9523/blob/main/Top.png)
+![Bottom](https://github.com/ripper121/AW9523/blob/main/Bottom.png)
