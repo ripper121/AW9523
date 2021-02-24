@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -244,6 +244,12 @@
 <wire x1="1.27" y1="0" x2="0" y2="1.27" width="0" layer="20" curve="-90"/>
 <wire x1="26.67" y1="0" x2="27.94" y2="1.27" width="0" layer="20" curve="90"/>
 <wire x1="26.67" y1="22.86" x2="27.94" y2="21.59" width="0" layer="20" curve="-90"/>
+<dimension x1="0" y1="0" x2="27.94" y2="0" x3="13.97" y3="-2.54" textsize="1.778" layer="21" dtype="horizontal"/>
+<dimension x1="27.94" y1="0" x2="27.94" y2="22.86" x3="30.48" y3="11.43" textsize="1.778" layer="21" dtype="vertical"/>
+<dimension x1="0" y1="0" x2="0" y2="22.86" x3="-2.54" y3="11.43" textsize="1.778" layer="21" dtype="vertical" unit="inch"/>
+<dimension x1="0" y1="22.86" x2="27.94" y2="22.86" x3="13.97" y3="25.4" textsize="1.778" layer="21" dtype="horizontal" unit="inch"/>
+<text x="-5.08" y="24.13" size="1.778" layer="21">inch</text>
+<text x="29.21" y="-2.54" size="1.778" layer="21">mm</text>
 </plain>
 <libraries>
 <library name="AW9523">
