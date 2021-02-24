@@ -187,7 +187,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.YnVzaW5lc3M6YWlwaWxvdA" projecturn="a.YnVzaW5lc3M6YWlwaWxvdCMyMDIxMDIyNDM4NjQzNDMzMQ" f3durn="urn:adsk.wipprod:dm.lineage:RagqEroLRf-bK97A5jNFDw" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="6f714f1b-249c-442b-9552-c8b4b96258eb" lastsyncedrevisionid="6f714f1b-249c-442b-9552-c8b4b96258eb" lastboardhashguid="00e6ae81-f7c1-4b07-bdf5-8c75eacf7d18" lastpushedtime="2021-02-24T11:32:54Z" linktopcb3d="true"/>
+<fusionsync huburn="a.YnVzaW5lc3M6YWlwaWxvdA" projecturn="a.YnVzaW5lc3M6YWlwaWxvdCMyMDIxMDIyNDM4NjQzNDMzMQ" f3durn="urn:adsk.wipprod:dm.lineage:RagqEroLRf-bK97A5jNFDw" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="6f714f1b-249c-442b-9552-c8b4b96258eb" lastsyncedrevisionid="6f714f1b-249c-442b-9552-c8b4b96258eb" lastboardhashguid="00e6ae81-f7c1-4b07-bdf5-8c75eacf7d18" lastpushedtime="2021-02-24T11:32:54Z" linktopcb3d="false"/>
 <plain>
 <wire x1="-2.54" y1="0" x2="25.4" y2="0" width="0" layer="20"/>
 <wire x1="25.4" y1="0" x2="25.4" y2="22.86" width="0" layer="20"/>
@@ -239,6 +239,7 @@
 <text x="25.161875" y="18.653125" size="0.6096" layer="26" rot="MR270">RST</text>
 <text x="-1.905" y="3.81" size="1.27" layer="26" font="vector" rot="MR90">AW9523 Breakout</text>
 <text x="-0.635" y="5.715" size="1.27" layer="25" font="vector" rot="R90">ripper121.com</text>
+<text x="0.9525" y="16.589375" size="0.8128" layer="25">v.1.0</text>
 </plain>
 <libraries>
 <library name="AW9523">
